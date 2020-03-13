@@ -8,6 +8,4 @@
 
 ## Sqoop 2
 
-### Contents
-
 - [Install](https://sqoop.apache.org/docs/1.99.7/admin/Installation.html)
